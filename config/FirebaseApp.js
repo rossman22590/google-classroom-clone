@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDmw-UX7eza8uIYlOAK3j8LXG4Xm0S4L7E",
-  authDomain: "classroom-clone-6ad7a.firebaseapp.com",
-  projectId: "classroom-clone-6ad7a",
-  storageBucket: "classroom-clone-6ad7a.appspot.com",
-  messagingSenderId: "973011895976",
-  appId: "1:973011895976:web:a8b4799a34c07e91df649d",
-  measurementId: "G-QN2XSZX79J"
+  apiKey: "AIzaSyAHkrP2---KmfUX5O4x31SlohUOcPJ0F6E",
+  authDomain: "classroom-b4909.firebaseapp.com",
+  projectId: "classroom-b4909",
+  storageBucket: "classroom-b4909.appspot.com",
+  messagingSenderId: "54635505429",
+  appId: "1:54635505429:web:6391a72dd86578dbfcab1c",
+  measurementId: "G-ZH66C3FMWV"
 };
 
 // if a Firebase instance doesn't exist, create one
